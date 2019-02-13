@@ -8,7 +8,7 @@ This is a To-do List built using django.
   - If working with virtualenv ```virtualenv``` should be installed and activated as well
 ## Procedure:
   - Install `Python3` or above version
-  - Install other required packages as well
+  - Install other required packages from ```requirements.txt``` file as well
   - change to ```src``` directory
   - Make database migrations with ```python manage.py makemigrations``` followed by ```python manage.py migrate```
   - Then Run development server with command ```python manage.py runserver```
