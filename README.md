@@ -4,7 +4,7 @@ This is a To-do List built using django.
 ## Installation:
  **Requirements**:
   - Python
-  - Django 2.0.4
+  - Django 2.1.9
   - If working with virtualenv ```virtualenv``` should be installed and activated as well
 ## Procedure:
   - Install `Python3` or above version
